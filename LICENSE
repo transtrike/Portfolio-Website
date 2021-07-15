@@ -1,4 +1,12 @@
-MIT License
+DUAL LICENCE
+
+CONTENT : CC BY-SA 4.0 International, found in the LICENSE-CONTENT file
+-------
+This classifies what is read by users, so all .md files, and any and all pictures/diagrams/etc. that have been made.
+
+CODE : MIT License, found in the LICENSE-CODE file
+----
+This classifies everything else that isn't content, so styling, scripts, etc.
 
 Copyright (c) 2021 Victor Stamoff
 
