@@ -1,10 +1,29 @@
 .navbar {
+  position: sticky;
   display: flex;
   width: 100%;
-  align-items: stretch;
+  text-align: justify;
+  top: 0;
+
+  padding: 10px 0;
+}
+
+.navbar * {
+  margin: 0 10px;
+
+  border: 1px solid var(--secondary-color);
+  border-radius: 10px;
 }
 
 .nav-link {
+  width: 100%;
   align-self: center;
   text-align: center;
+
+  font-size: 30px;
+  padding: 8px;
+}
+
+.nav-link:hover {
+  background-color: var(--tertiary-color);
 }
