@@ -1,10 +1,9 @@
-header {
+.initials {
   align-items: center;
   text-align: center;
-  width: 100%;
 }
 
-header * {
+.initials * {
   margin: 8px 0px;
 }
 
